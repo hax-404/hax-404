@@ -1,9 +1,6 @@
 ## hax-404
 
 🎓 Ciência da Computação  
-📊 Estudando Data Analytics  
-🐍 Aprendendo Python e SQL  
-🖥️ Interessado em tecnologia e IA
 
 ## Tecnologias
 - Python
